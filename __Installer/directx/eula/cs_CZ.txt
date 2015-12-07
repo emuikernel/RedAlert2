@@ -1,0 +1,34 @@
+LICENÈNÍ PODMÍNKY PRO SOFTWARE SPOLEÈNOSTI MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Tyto licenèní podmínky pøedstavují smlouvu mezi spoleèností Microsoft Corporation (nebo nìkterou z jejích afilací, v závislosti na tom, kde bydlíte) a vámi.  Pøeètìte si je, prosím.  Vztahují se na software uvedený výše, který zahrnuje média, na nichž jste jej získali (pokud existují).  Tyto podmínky se rovnìž vztahují na:
+* aktualizace,
+* dodatky,
+* internetové služby a 
+* služby odborné pomoci
+spoleènosti Microsoft pro tento software, pokud s tìmito položkami nejsou dodávány jiné podmínky.  Pokud ano, budou platit tyto jiné podmínky.
+POUŽITÍM SOFTWARU PØIJÍMÁTE TYTO PODMÍNKY.  POKUD JE NEPØIJÍMÁTE, SOFTWARE NEPOUŽÍVEJTE.
+Dodržíte-li tyto licenèní podmínky, máte následující práva.
+1. PRÁVA K UŽÍVÁNÍ A INSTALACI.  Mùžete instalovat a užívat libovolný poèet kopií softwaru na vašich zaøízeních.
+2. ROZSAH LICENCE.  Software se neprodává, pouze se udìluje licence k jeho užívání.  Tato smlouva vám poskytuje pouze urèitá práva k užívání softwaru.  Všechna ostatní práva si vyhrazuje spoleènost Microsoft.  Pokud vám rozhodné právo bez ohledu na tato omezení neposkytuje více práv, smíte software užívat pouze v souladu s podmínkami této smlouvy.  Souèasnì musíte dodržovat veškerá technická omezení v softwaru, která umožòují jeho užívání pouze urèitými zpùsoby.  Nesmíte
+* pøekraèovat žádná technická omezení softwaru,
+* provádìt zpìtnou analýzu, dekompilaci nebo pøevod ze strojového kódu softwaru, s výjimkou a v rozsahu takových aktivit, které jsou výslovnì povoleny rozhodným právem bez ohledu na toto omezení,
+* vytváøet více kopií softwaru než je urèeno v této smlouvì nebo povoleno rozhodným právem bez ohledu na toto omezení,
+* zveøejnit software, aby jej ostatní mohli kopírovat,
+* pronajímat, pùjèovat nebo poskytovat software na leasing,
+* pøevést software nebo tuto smlouvu na tøetí stranu, nebo
+* užívat software pro komerèní hostitelské služby.
+3. ZÁLOŽNÍ KOPIE.  Smíte zhotovit jednu záložní kopii softwaru.  Smíte ji použít pouze k pøeinstalování softwaru.
+4. DOKUMENTACE.  Každá osoba, která má platný pøístup k vašemu poèítaèi nebo k interní síti, smí kopírovat a používat dokumentaci pouze pro vaše interní referenèní úèely.
+5. VÝVOZNÍ OMEZENÍ.  Software podléhá naøízením a zákonùm o vývozu platným ve Spojených státech amerických.  Musíte dodržovat všechny pøíslušné místní i mezinárodní naøízení a zákony o vývozu vztahující se na software.  Mezi tyto zákony patøí omezení míst urèení, koncových uživatelù a koncového užívání.  Další informace naleznete na adrese www.microsoft.com/exporting.
+6. SLUŽBY ODBORNÉ POMOCI.  Vzhledem k tomu, že tento software je poskytován „tak, jak stojí a leží“, nemusíme poskytovat žádné související služby odborné pomoci.
+7. ÚPLNÁ DOHODA.  Tato smlouva a podmínky pro doplòky, aktualizace, internetové služby a služby odborné pomoci, které užíváte, tvoøí úplnou dohodu ohlednì softwaru a služeb odborné pomoci.
+8. ROZHODNÉ PRÁVO.
+a. Spojené státy americké.  Pokud jste tento software získali ve Spojených státech amerických, øídí se výklad této smlouvy zákony státu Washington a tyto zákony se vztahují na nároky spojené s jejím porušením, bez ohledu na kolizní ustanovení práva.  Zákony státu, v nìmž žijete, se øídí všechny ostatní nároky, vèetnì nárokù spojených s místními zákony na ochranu spotøebitele, se zákony proti nekalé soutìži a s obèanskoprávními delikty.
+b. Mimo území Spojených státù amerických.  Pokud jste software získali na území jakékoli jiné zemì, bude se tato smlouva øídit zákony této zemì.
+9. PRÁVNÍ ÚÈINKY.  Tato smlouva popisuje urèitá zákonná práva.  Zákony vaší zemì vám mohou poskytovat i další práva.  Mùžete mít rovnìž další práva ve vztahu ke stranì, od níž jste software získali.  Tato smlouva nemìní vaše práva v rámci právního øádu vaší zemì, pokud právní øád vaší zemì nepovoluje jejich zmìnu.
+10. ZØEKNUTÍ SE ZÁRUK.  SOFTWARE JE LICENCOVÁN „TAK, JAK STOJÍ A LEŽÍ“.  VEŠKERÁ RIZIKA SPOJENÁ S JEHO UŽÍVÁNÍM NESETE VY.  SPOLEÈNOST MICROSOFT NEPOSKYTUJE ŽÁDNÉ VÝSLOVNÉ ZÁRUKY, GARANCE ANI PODMÍNKY.  V RÁMCI VAŠICH MÍSTNÍCH ZÁKONÙ MÙŽETE MÍT DALŠÍ PRÁVA SPOTØEBITELE, KTERÁ TATO SMLOUVA NEMÙŽE ZMÌNIT.  V ROZSAHU POVOLENÉM VAŠIMI MÍSTNÍMI ZÁKONY SPOLEÈNOST MICROSOFT VYLUÈUJE PØEDPOKLÁDANÉ ZÁRUKY PRODEJNOSTI, VHODNOSTI PRO URÈITÝ ÚÈEL A NEPORUŠENÍ SMLOUVY.
+11. OMEZENÍ A VYLOUÈENÍ PROSTØEDKÙ NÁPRAVY A NÁHRADY ŠKODY.  OD SPOLEÈNOSTI MICROSOFT A JEJÍCH DODAVATELÙ MÙŽETE ZÍSKAT POUZE NÁHRADU ZA PØÍMÉ ŠKODY AŽ DO VÝŠE 5 USD.  NEZÍSKÁTE NÁHRADU ZA ŽÁDNÉ JINÉ ŠKODY, VÈETNÌ NÁSLEDNÝCH ŠKOD, UŠLÉHO ZISKU A ZVLÁŠTNÍCH, NEPØÍMÝCH NEBO NÁHODNÝCH ŠKOD.
+Toto omezení se vztahuje
+* na všechny záležitosti související se softwarem, službami, obsahem na internetových stránkách tøetích stran (vèetnì kódu) nebo programy tøetích stran a
+* na nároky za porušení smlouvy, porušení záruky, garance nebo podmínky, objektivní odpovìdnost, nedbalost nebo jiné obèanskoprávní delikty v rozsahu povoleném rozhodným právem.
+Vztahuje se rovnìž na situace, kdy spoleènost Microsoft vìdìla nebo mohla vìdìt o možnosti vzniku tìchto škod.  Výše uvedené omezení nebo vylouèení se na vás nemusí rovnìž vztahovat v pøípadì, že vaše zemì neumožòuje vylouèení nebo omezení náhodných, následných nebo jiných škod.

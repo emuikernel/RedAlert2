@@ -1,0 +1,34 @@
+POSTANOWIENIA LICENCYJNE DOTYCZ•CE OPROGRAMOWANIA MICROSOFT 
+MICROSOFT DIRECTX END USER RUNTIME
+Niniejsze postanowienia licencyjne stanowiπ umowÍ miÍdzy Microsoft Corporation (albo z jednym z podmiotÛw stowarzyszonych Microsoft w≥aúciwym ze wzglÍdu na PaÒstwa miejsce zamieszkania lub siedzibÍ) a PaÒstwem. Prosimy przeczytaÊ poniøsze postanowienia. Odnoszπ siÍ one do okreúlonego powyøej oprogramowania, jak rÛwnieø noúnikÛw, na ktÛrych zosta≥o ono PaÒstwu dostarczone, jeúli takie noúniki istniejπ. Niniejsze postanowienia licencyjne dotyczπ takøe dostarczanych przez Microsoft:
+* aktualizacji,
+* uzupe≥nieÒ,
+* us≥ug internetowych oraz
+* pomocy technicznej
+dla niniejszego oprogramowania, o ile tym elementom nie towarzyszπ inne postanowienia. W takim przypadku obowiπzujπ te inne postanowienia.
+PRZEZ UØYCIE OPROGRAMOWANIA AKCEPTUJ• PA—STWO NINIEJSZE POSTANOWIENIA. JEåLI NIE AKCEPTUJ• PA—STWO NINIEJSZYCH POSTANOWIE—, NIE MOG• PA—STWO UØYWA∆ OPROGRAMOWANIA.
+Jeúli zgadzajπ siÍ PaÒstwo z niniejszymi postanowieniami licencyjnymi, majπ PaÒstwo nastÍpujπce prawa.
+1. PRAWA DO INSTALACJI I UØYWANIA. Mogπ PaÒstwo zainstalowaÊ i uøywaÊ dowolnej liczby kopii oprogramowania na swoich urzπdzeniach na swoich urzπdzeniach.
+2. ZAKRES LICENCJI. Oprogramowanie jest licencjonowane, a nie sprzedawane. Niniejsza umowa daje PaÒstwu tylko niektÛre prawa do uøywania oprogramowania. Microsoft zastrzega sobie wszystkie inne prawa. Poza sytuacjπ, w ktÛrej pomimo niniejszego ograniczenia prawo w≥aúciwe daje PaÒstwu wiÍcej praw, mogπ PaÒstwo uøywaÊ oprogramowania tylko w sposÛb wyraünie dozwolony w niniejszej umowie. W takiej sytuacji muszπ PaÒstwo wtedy przestrzegaÊ wszystkich ograniczeÒ technicznych w oprogramowaniu, ktÛre zezwalajπ PaÒstwu na uøywanie go tylko pewnymi sposobami. Nie mogπ PaÒstwo:
+* obchodziÊ ograniczeÒ technicznych w oprogramowaniu;
+* odtwarzaÊ, dekompilowaÊ ani dezasemblowaÊ oprogramowania, z wyjπtkiem sytuacji, gdy niezaleønie od niniejszego ograniczenia dzia≥ania takie sπ wyraünie dozwolone przez prawo w≥aúciwe i tylko w zakresie takiego zezwolenia;
+* sporzπdzaÊ wiÍcej kopii oprogramowania niø jest to okreúlone w niniejszej umowie lub dozwolone przez prawo w≥aúciwe, pomimo niniejszego ograniczenia;
+* udostÍpniaÊ oprogramowania innym osobom do kopiowania;
+* wynajmowaÊ, wydzierøawiaÊ ani wypoøyczaÊ oprogramowania;
+* przekazywaÊ oprogramowania ani niniejszej umowy osobom trzecim albo
+* uøywaÊ oprogramowania do úwiadczenia us≥ug hostingowych dla celÛw komercyjnych.
+3. KOPIA ZAPASOWA. Mogπ PaÒstwo sporzπdziÊ jednπ kopiÍ zapasowπ oprogramowania. Mogπ jej PaÒstwo uøywaÊ tylko do ponownego zainstalowania oprogramowania.
+4. DOKUMENTACJA. Kaøda osoba, ktÛra jest upowaøniona do uzyskiwania dostÍpu do PaÒstwa komputera lub jego sieci wewnÍtrznej, moøe kopiowaÊ i korzystaÊ z dokumentacji jako materia≥Ûw referencyjnych na PaÒstwa wewnÍtrzny uøytek.
+5. OGRANICZENIA EKSPORTOWE. Oprogramowanie podlega amerykaÒskim przepisom eksportowym. Muszπ PaÒstwo przestrzegaÊ wszystkich krajowych i miÍdzynarodowych przepisÛw eksportowych majπcych zastosowanie do oprogramowania. Przepisy te zawierajπ ograniczenia dotyczπce kraju przeznaczenia, uøytkownikÛw i uøywania oprogramowania. WiÍcej informacji moøna znaleüÊ pod adresem www.microsoft.com/exporting.
+6. POMOC TECHNICZNA. Oprogramowanie jest dostarczane w stanie takim, w jakim siÍ znajduje. W zwiπzku z tym nie oferujemy øadnych us≥ug pomocy technicznej dotyczπcych tego oprogramowania.
+7. JEDNA UMOWA. Niniejsza umowa (≥πcznie z zamieszczonπ poniøej gwarancjπ) wraz ze wszystkimi postanowieniami dotyczπcymi uzupe≥nieÒ, aktualizacji, us≥ug internetowych i us≥ug pomocy technicznej stanowi ca≥oúÊ umowy dotyczπcej oprogramowania i pomocy technicznej.
+8. PRAWO W£AåCIWE.
+a. Stany Zjednoczone. Jeúli nabyli PaÒstwo oprogramowanie w Stanach Zjednoczonych, interpretacja niniejszej umowy podlega prawu stanu Waszyngton, ktÛre to prawo ma zastosowanie do roszczeÒ z tytu≥u naruszenia umowy, bez wzglÍdu na konflikty przepisÛw kolizyjnych. Wszystkie inne roszczenia, ≥πcznie z roszczeniami wnoszonymi na podstawie w≥aúciwych dla PaÒstwa ustaw z danego stanu o ochronie konsumenta, ustaw o zwalczaniu nieuczciwej konkurencji i czynach niedozwolonych, podlegajπ prawu miejscowemu, w≥aúciwemu ze wzglÍdu na stan PaÒstwa zamieszkania lub siedziby.
+b. Poza Stanami Zjednoczonymi. Jeúli nabyli PaÒstwo oprogramowanie w dowolnym innym kraju, prawem w≥aúciwym jest prawo miejscowe.
+9. SKUTKI PRAWNE. W niniejszej umowie opisane sπ niektÛre uprawnienia. Mogπ PaÒstwo mieÊ takøe inne prawa ustawowe z mocy prawa swojego kraju. Mogπ PaÒstwo mieÊ takøe prawa wzglÍdem strony, od ktÛrej nabyli PaÒstwo oprogramowanie. Niniejsza umowa nie zmienia PaÒstwa ustawowych praw obowiπzujπcych z mocy prawa PaÒstwa kraju, jeúli prawo to na takie zmiany nie zezwala.
+10. WY£•CZENIE ODPOWIEDZIALNOåCI Z TYTU£U R KOJMI. OPROGRAMOWANIE JEST LICENCJONOWANE ÑJAK JESTî. PONOSZ• PA—STWO RYZYKO ZWI•ZANE Z JEGO UØYWANIEM. NIE UDZIELAMY ØADNEJ WYRAèNEJ R KOJMI, GWARANCJI ANI NIE PODAJEMY WARUNK”W. MOG• PA—STWO MIE∆ DODATKOWE PRAWA KONSUMENCKIE Z MOCY SWOJEGO PRAWA MIEJSCOWEGO, KT”RYCH NINIEJSZA UMOWA NIE MOØE ZMIENI∆. W ZAKRESIE DOZWOLONYM PRZEZ PA—STWA PRAWO MIEJSCOWE, MICROSOFT WY£•CZA DOMYåLN• GWARANCJ  Z TYTU£U WARTOåCI HANDLOWEJ, PRZYDATNOåCI DO OKREåLONEGO CELU I NIENARUSZALNOåCI PRAW OS”B TRZECICH.
+11. BRAK ODPOWIEDZIALNOåCI ZA SZKODY. W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO W£AåCIWE ODPOWIEDZIALNOå∆ MICROSOFT I PODMIOT”W STOWARZYSZONYCH MICROSOFT LUB ICH DOSTAWC”W ZA JAKIEKOLWIEK SZKODY B DZIE OGRANICZONA DO WYSOKOåCI 5,00 USD. W NAJSZERSZYM ZAKRESIE DOZWOLONYM PRZEZ PRAWO W£AåCIWE, MICROSOFT, ØADEN Z PODMIOT”W STOWARZYSZONYCH MICROSOFT LUB ICH DOSTAWCY NIE B D• PONOSILI WZGL DEM PA—STWA ODPOWIEDZIALNOåCI ZA JAKIEKOLWIEK INNE SZKODY W TYM W SZCZEG”LNOåCI ZA UTRACONE KORZYåCI, SZKODY SPECJALNE, POåREDNIE I PRZYPADKOWE.
+W szczegÛlnoúci ograniczenie to ma zastosowanie do
+* kaødej sprawy zwiπzanej z oprogramowaniem, us≥ugami, zawartoúciπ (≥πcznie z kodem) witryn internetowych osÛb trzecich lub programami osÛb trzecich oraz
+* roszczeÒ wnoszonych w oparciu o naruszenie umowy, niedotrzymanie rÍkojmi, gwarancji lub oúwiadczeÒ i zapewnieÒ, odpowiedzialnoúÊ na zasadzie ryzyka , niedbalstwo lub pope≥nienie innego czynu niedozwolonego, w zakresie dozwolonym przez prawo w≥aúciwe. 
+Stosuje siÍ nawet wtedy, gdy Microsoft wiedzia≥a lub powinna wiedzieÊ o moøliwoúci powstania takich szkÛd. Powyøsze ograniczenia i wy≥πczenia mogπ nie dotyczyÊ PaÒstwa, poniewaø jego kraj moøe nie zezwalaÊ na wy≥πczenie lub ograniczenie odpowiedzialnoúci za szkody przypadkowe, wtÛrne i inne.

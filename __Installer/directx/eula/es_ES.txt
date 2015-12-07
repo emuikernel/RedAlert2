@@ -1,0 +1,34 @@
+TÉRMINOS DE LICENCIA DEL SOFTWARE DE MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Los presentes términos de licencia son un contrato entre Microsoft Corporation (o, en función del país en que usted resida, una de las sociedades de su grupo) y usted.  Sírvase leerlos detenidamente.  Son de aplicación al software arriba mencionado, el cual incluye los soportes en los que lo haya recibido, en su caso.  Estos términos de licencia también serán de aplicación a los siguientes elementos de Microsoft:
+* actualizaciones,
+* suplementos,
+* servicios basados en Internet, y
+* servicios de soporte técnico
+correspondientes a este software, a menos que existan otros términos aplicables a dichos elementos.  En tal caso, se aplicarán dichos otros términos.
+AL HACER USO DEL SOFTWARE, USTED ESTARÁ ACEPTANDO ESTOS TÉRMINOS.  SI USTED NO LOS ACEPTA, NO USE EL SOFTWARE.
+Si usted cumple los presentes términos de esta licencia, dispondrá de los siguientes derechos.
+1. DERECHOS DE INSTALACIÓN Y USO.  Además, usted podrá instalar y utilizar cualquier número de copias del software en sus dispositivos.
+2. ALCANCE DE LA LICENCIA.  El software se cede bajo licencia y no es objeto de venta.  El presente contrato sólo le otorga algunos derechos de uso del software.  Microsoft se reserva todos los demás derechos.  A menos que la legislación aplicable le otorgue más derechos a pesar de esta limitación, usted sólo podrá utilizar el software tal como lo autoriza expresamente el presente contrato.  Al hacerlo, deberá ajustarse a las limitaciones técnicas del software que sólo permiten utilizarlo de determinadas formas.  Usted no podrá:
+* eludir las limitaciones técnicas del software;
+* utilizar técnicas de ingeniería inversa, descompilar o desensamblar el software, excepto y únicamente en la medida en que ello esté expresamente permitido por la ley a pesar de la presente limitación;
+* hacer más copias del software de las que especifica este contrato o permite la legislación vigente a pesar de esta limitación;
+* hacer público el software para que otros lo copien;
+* alquilar, arrendar o ceder el software;
+* transferir este software ni este contrato a terceros; o
+* utilizar el software para prestar servicios de alojamiento de software comercial.
+3. COPIA DE SEGURIDAD.  Usted puede realizar una única copia de seguridad del software.  Usted sólo podrá utilizarla para volver a instalar el software.
+4. DOCUMENTACIÓN.  Toda persona que tenga acceso válido a su ordenador o a la red interna puede copiar y utilizar la documentación a efectos de consulta internos.
+5. RESTRICCIONES EN MATERIA DE EXPORTACIÓN.  El software está sujeto a las leyes y disposiciones en materia de exportación de los Estados Unidos de América.  Usted debe cumplir todas las leyes y disposiciones en materia de exportación internacionales y nacionales que sean de aplicación al software.  Estas leyes incluyen restricciones de los destinos, usuarios finales y uso final.  Para obtener información adicional, visite www.microsoft.com/exporting.
+6. SERVICIOS DE SOPORTE TÉCNICO.  Debido a que este software se presenta “tal cual,” no podemos proporcionar servicios de soporte técnico para éste.
+7. CONTRATO COMPLETO.  Este contrato y los términos aplicables a suplementos, actualizaciones, servicios basados en Internet y servicios de soporte técnico que usted utilice, constituyen el contrato completo en relación con el software y los servicios de soporte técnico.
+8. LEGISLACIÓN APLICABLE.
+a. Estados Unidos de América.  Si usted adquirió el software en los Estados Unidos de América, la interpretación del presente contrato se regirá por la legislación del Estado de Washington, que será de aplicación a las reclamaciones por incumplimiento del mismo, independientemente de sus normas de conflicto de leyes.  Para todas las demás reclamaciones, será de aplicación la legislación de su Estado de residencia, incluyendo las reclamaciones en virtud de las leyes estatales en materia de protección al consumidor, competencia desleal y responsabilidad extracontractual.
+b. Fuera de los Estados Unidos  de América.  Si usted adquirió el software en otro país, será de aplicación la legislación de dicho país.
+9. EFECTOS LEGALES.  El presente contrato describe determinados derechos legales.  Es posible que usted disponga de otros derechos en virtud de la legislación de su Estado o país.  Asimismo, usted puede disponer de derechos frente al revendedor del software.  Este contrato no modifica los derechos de los que usted dispone en virtud de la legislación de su Estado o país si dicha legislación no permite tal cosa.
+10. RENUNCIA DE GARANTÍA.  EL SOFTWARE SE CEDE BAJO LICENCIA “TAL CUAL”.  USTED ACEPTA EL RIESGO DE UTILIZARLO.  MICROSOFT NO OTORGA NINGUNA GARANTÍA NI CONDICIÓN EXPLÍCITAS.  ES POSIBLE QUE LA LEGISLACIÓN LOCAL LE OTORGUE DERECHOS DE CONSUMIDOR ADICIONALES QUE EL PRESENTE CONTRATO NO PUEDA MODIFICAR.  EN LA MEDIDA EN QUE ASÍ LO PERMITA LA LEGISLACIÓN LOCAL, MICROSOFT EXCLUYE LAS GARANTÍAS IMPLÍCITAS DE COMERCIABILIDAD, IDONEIDAD PARA UN FIN PARTICULAR Y AUSENCIA DE INFRACCIÓN.
+11. LIMITACIÓN Y EXCLUSIÓN DE LA RESPONSABILIDAD.  USTED PODRÁ OBTENER DE MICROSOFT Y SUS PROVEEDORES ÚNICAMENTE LA INDEMNIZACIÓN DE LOS DAÑOS DIRECTOS QUE USTED SUFRA EFECTIVAMENTE HASTA LA CANTIDAD DE 5 DÓLARES ESTADOUNIDENSES.  USTED NO PODRÁ OBTENER INDEMNIZACIÓN ALGUNA POR DAÑOS DE OTRA ÍNDOLE, INCLUIDOS LOS DAÑOS CONSECUENCIALES, ESPECIALES, INDIRECTOS O INCIDENTALES, ASÍ COMO TAMPOCO POR LUCRO CESANTE.
+Esta limitación se aplica a
+* cualquier cuestión relacionada con el software, servicios, contenidos (incluido el código) que se hallen en sitios de Internet de terceros, o programas de terceros, así como a
+* reclamaciones por incumplimiento de contrato, incumplimiento de garantía o condición, responsabilidad estricta, negligencia u otra responsabilidad extracontractual hasta el límite permitido por la legislación vigente.
+También se aplica incluso si Microsoft conocía o debería haber conocido la posibilidad de que se produjesen dichos daños.  También pueden producirse situaciones en las que no pueda aplicarse a su caso la limitación o exclusión precedente porque su Estado o país no admite la exclusión o limitación de daños consecuentes, incidentales o de otra índole.

@@ -1,0 +1,34 @@
+LICENSVILLKOR FÖR PROGRAMVARA FRÅN MICROSOFT
+MICROSOFT DIRECTX END USER RUNTIME
+Dessa licensvillkor utgör ett avtal mellan Microsoft Corporation (eller beroende på var du bor, ett av dess koncernbolag) och dig. Läs dem noga. De gäller för ovanstående programvara och omfattar alla eventuella media som programvaran levereras på. Villkoren gäller även följande produkter och tjänster från Microsoft:
+* uppdateringar
+* tillägg
+* Internetbaserade tjänster
+* supporttjänster
+avseende denna programvara om inga andra villkor medföljer dessa produkter eller tjänster. I sådant fall gäller de medföljande villkoren.
+GENOM ATT ANVÄNDA PROGRAMVARAN ACCEPTERAR DU VILLKOREN I LICENSAVTALET. OM DU INTE ACCEPTERAR VILLKOREN HAR DU INTE RÄTT ATT ANVÄNDA PROGRAMVARAN.
+Om du uppfyller licensvillkoren har du följande rättigheter.
+1. INSTALLATIONS- OCH ANVÄNDNINGSRÄTTIGHETER. Du får installera och använda obegränsat antal exemplar av programvaran på dina enheter.
+2. LICENSENS OMFATTNING. Programvaran säljs inte, den licensieras. Detta avtal ger dig endast vissa rättigheter att använda programvaran. Microsoft förbehåller sig alla övriga rättigheter. Om inte tvingande lag trots denna begränsning beviljar dig ytterligare rättigheter får du endast använda programvaran på det sätt som uttryckligen anges i detta avtal. Du måste då följa alla tekniska begränsningarna i programvaran som endast tillåter att du använder den på ett visst sätt. Du har inte rätt att
+* kringgå någon av programvarans tekniska begränsningar,
+* utföra reverse engineering på, dekompilera eller ta isär koden för programvaran, förutom och endast i den utsträckning detta, trots denna begränsning, är uttryckligen tillåtet enligt tillämplig lag,
+* framställa fler kopior av programvaran än vad som specifikt anges i detta avtal eller som trots denna begränsning tillåts enligt tillämplig lag,
+* röja programvaran så att den kan kopieras av andra,
+* hyra ut, leasa eller låna ut programvaran,
+* överföra programvaran eller detta avtal till tredje part, eller
+* använda programvaran i kommersiella hostingtjänster.
+3. SÄKERHETSKOPIERING. Du får skapa en säkerhetskopia av programvaran. Du får endast använda den för att installera om programvaran.
+4. DOKUMENTATION. Varje person med åtkomst till en dator som tillhör dig eller till ditt interna nätverk får kopiera och använda dokumentationen för internt, icke-kommersiellt bruk.
+5. EXPORTRESTRIKTIONER. Amerikansk exportlagstiftning gäller för programvaran. Du måste följa all inhemsk och internationell exportlagstiftning som gäller för programvaran. Sådan lagstiftning innehåller restriktioner avseende destination, slutanvändare och slutanvändning. Mer information finns på www.microsoft.com/exporting.
+6. SUPPORTTJÄNSTER. Eftersom denna programvara tillhandahålls ”i befintligt skick” är det inte säkert att någon support tillhandahålls för den.
+7. AVTALET I DESS HELHET. Detta avtal samt villkoren för tillägg, uppdateringar, Internetbaserade tjänster och supporttjänster som du använder utgör hela avtalet för programvaran och supporttjänsterna.
+8. TILLÄMPLIG LAG.
+a. USA. Om du har förvärvat programvaran i USA skall den amerikanska delstaten Washingtons lagar gälla för tolkningen av avtalet och anspråk vid brott mot avtalet, oavsett lagvalsprinciper. Lagarna i den stat där du bor reglerar övriga anspråk, inklusive anspråk som åberopas enligt konsumentskyddslagstiftning, konkurrensrättsliga lagar och handlingar som ger rätt till utomobligatoriskt skadeståndsansvar.
+b. Utanför USA. Om du har förvärvat programvaran i något annat land gäller lagarna i det landet.
+9. LEGALA PÅFÖLJDER. Vissa legala rättigheter beskrivs i detta avtal. Du kan ha andra rättigheter enligt gällande rätt i ditt land. Du kan även ha rättigheter i förhållande till den part som du förvärvade programvaran ifrån. Detta avtal förändrar inte dina rättigheter enligt lagstiftningen i ditt land om lagarna i ditt land inte tillåter det.
+10. FRISKRIVNING FRÅN GARANTIANSVAR. PROGRAMVARAN LICENSIERAS ”I BEFINTLIGT SKICK”. DU BÄR RISKEN FÖR DESS ANVÄNDNING. MICROSOFT LÄMNAR INGA GARANTIER. DU KAN HA YTTERLIGARE RÄTTIGHETER SOM KONSUMENT ENLIGT TILLÄMPLIG LAGSTIFTNING VILKET DETTA AVTAL INTE KAN ÄNDRA. I DEN UTSTRÄCKNING TILLÄMPLIG LAG MEDGER DET FRISKRIVER SIG MICROSOFT FRÅN UNDERFÖRSTÅDDA GARANTIER FÖR ALLMÄN LÄMPLIGHET, LÄMPLIGHET FÖR ETT SÄRSKILT ÄNDAMÅL OCH FRÅNVARO AV INTRÅNG I TREDJE MANS RÄTTIGHETER.
+11. BEGRÄNSNING AV OCH FRISKRIVNING FRÅN ANSVAR FÖR SKADOR. DU KAN ENDAST FÅ ERSÄTTNING FRÅN MICROSOFT OCH DESS LEVERANTÖRER FÖR DIREKTA SKADOR UPP TILL ETT BELOPP AV U.S. $ 5,00. DU FÅR INTE ERSÄTTNING FÖR ANDRA SKADOR, INKLUSIVE FÖLJDSKADOR, UTEBLIVEN VINST, OFÖRUTSEDDA SKADOR ELLER INDIREKTA SKADOR.
+Denna begränsning gäller för
+* allt som är relaterat till programvaran, tjänster, innehåll (inklusive kod) på tredje parts webbsidor eller tredje parts program
+* anspråk med avseende på kontraktsbrott, brott mot garantin, utfästelser eller villkor, strikt ansvar, skada orsakad av vårdslöshet eller andra handlingar som ger rätt till utomobligatoriskt skadeståndsansvar i den utsträckning som följer av tillämplig lag.
+Den gäller även om Microsoft kände till eller borde ha känt till risken för sådan skada. Om inte den ovanstående begränsningen av eller friskrivningen från ansvar för följdskador, indirekta skador eller andra skador tillåts i ditt land gäller inte denna begränsning eller friskrivning för dig.

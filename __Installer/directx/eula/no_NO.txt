@@ -1,0 +1,49 @@
+LISENSVILKÅR FOR MICROSOFT PROGRAMVARE
+MICROSOFT DIRECTX END USER RUNTIME NONE
+Disse lisensvilkårene utgjør en rettslig bindende avtale mellom deg og Microsoft Corporation (eller et av dets tilknyttede selskaper, avhengig av hvor du bor). Les vilkårene nøye. De gjelder ovennevnte programvare, som også omfatter mediet den eventuelt ble levert på. Vilkårene gjelder også for Microsofts
+* Oppdateringer
+* Tillegg
+* Internett-baserte tjenester
+* Brukerstøtte
+for ovennevnte programvare, med mindre andre vilkår følger med programvaren. I så fall gjelder de vilkårene som følger med programvaren.
+VED Å TA I BRUK PROGRAMVAREN ANSES DU FOR Å HA AKSEPTERT DISSE VILKÅRENE. HVIS DU IKKE AKSEPTERER VILKÅRENE, HAR DU IKKE RETT TIL Å TA I BRUK PROGRAMVAREN.
+Forutsatt at du overholder vilkårene i denne avtalen, har du følgende rettigheter.
+1. INSTALLASJON OG BRUKERRETTIGHETER. Du har rett til å installere og bruke et hvilket som helst antall eksemplarer av programvaren på dine enheter.
+2. LISENSENS OMFANG. Det gis lisens på programvaren. Den selges ikke. Denne avtalen gir deg begrensede rettigheter til å bruke programvaren. Microsoft forbeholder seg alle øvrige rettigheter. Med mindre ufravikelig lov gir deg flere rettigheter til tross for denne restriksjonen, har du bare rett til å bruke programvaren slik det uttrykkelig er tillatt i henhold til denne avtalen. Du må overholde eventuelle tekniske begrensninger i programvaren som bare tillater at du bruker den på bestemte måter. Du har ikke rett til å gjøre følgende:
+* Omgå de tekniske begrensningene i programvaren,
+* Foreta omvendt utvikling ("reverse engineering"), dekompilere eller demontere programvaren, med mindre og bare i den grad dette er tillatt i henhold til gjeldende lov, til tross for denne begrensningen,
+* Lage flere eksemplarer av programvaren enn det som er spesifisert i denne avtalen eller tillatt i henhold til ufravikelig lov, til tross for denne begrensningen,
+* Publisere programvaren slik at andre kan fremstille eksemplarer av den,
+* Leie ut, lease eller låne bort programvaren,
+* Overføre programvaren eller denne avtalen til en tredjepart, eller
+* Bruke programvaren til kommersielle vertstjenester.
+3. SIKKERHETSKOPI. Du har rett til å lage én sikkerhetskopi av programvaren. Sikkerhetskopien kan bare brukes til å installere programvaren på nytt.
+4. DOKUMENTASJON. Enhver person som har gyldig tilgang til din datamaskinen eller ditt interne nettverk, har rett til å fremstille eksemplarer av og bruke dokumentasjonen for dine interne referanseformål.
+5. EKSPORTRESTRIKSJONER. Programvaren er underlagt amerikanske eksportlover og -regler. Du må overholde alle nasjonale og internasjonale eksportlover og -regler som gjelder for programvaren. Disse lovene omfatter restriksjoner på bestemmelsessteder, sluttbrukere og sluttbruk. Hvis du vil ha mer informasjon, se www.microsoft.com/exporting.
+6. BRUKERSTØTTE. Fordi programvaren leveres "som den er" ("as is"), er det ikke sikkert at vi vil tilby brukerstøtte for den.
+7. FULLSTENDIG AVTALE. Denne avtalen og vilkårene for tillegg, oppgraderinger, Internett-baserte tjenester og brukerstøtte du benytter deg av, utgjør den fullstendige avtalen for programvaren og brukerstøtten.
+8. GJELDENDE LOV.
+a. USA. Hvis du ervervet programvaren i USA, er denne avtalen underlagt lovene i delstaten Washington, og gjelder krav knyttet til avtalebrudd, uten hensyn til prinsipper om lovkonflikt. Alle andre krav, herunder krav knyttet til delstatlige forbrukervernlover, urettferdige konkurranseregler og forvoldt skade, er underlagt lovene i den aktuelle delstaten.
+b. Utenfor USA. Hvis du ervervet programvaren i et annet land enn USA, gjelder nasjonal lov.
+9. RETTSVIRKNING. Denne avtalen beskriver bestemte rettigheter. Du kan ha andre rettigheter i henhold til gjeldende lov avhengig av jurisdiksjon. Du kan også ha rettigheter med hensyn til den parten du ervervet programvaren fra. Denne avtalen endrer ikke dine rettigheter i henhold til gjeldende ufravikelig lov som måtte få anvendelse for deg.
+10. BEGRENSEDE RETTIGHETER. PROGRAMVAREN ER LISENSIERT "SOM DEN ER" ("AS IS"). DU BRUKER DEN PÅ EGEN RISIKO. MICROSOFT INNVILGER DEG INGEN GARANTIER ELLER ANDRE RETTIGHETER. DU KAN HA YTTERLIGERE RETTIGHETER SOM FORBRUKER I HENHOLD TIL GJELDENDE LOV, SOM DENNE AVTALEN IKKE KAN BEGRENSE. I DEN GRAD IKKE ANNET FØLGER AV UFRAVIKELIG LOV, FRASKRIVER MICROSOFT SEG ETHVERT ANSVAR OG FORPLIKTELSER, HERUNDER MEN IKKE BEGRENSET TIL UNDERFORSTÅTTE GARANTIER OM SALGBARHET, ANVENDELIGHET FOR SÆRSKILTE FORMÅL ELLER AT PROGRAMVAREN IKKE KRENKER TREDJEPARTS RETTIGHETER.
+11. ANVARSFRASKRIVELSE OG ANSVARSBEGRENSNING FOR TAP ELLER SKADER. MICROSOFT ELLER DETS LEVERANDØRER VIL BARE ERSTATTE DIREKTE TAP ELLER SKADER BEGRENSET OPP TIL 5,00 USD. DU HAR IKKE RETT TIL DEKNING FOR ANDRE TAP ELLER SKADER AV ØKONOMISK ELLER IKKE-ØKONOMISK ART, HERUNDER FØLGESKADER, TAP AV FORTJENESTE ELLER SPESIELLE, INDIREKTE ELLER TILFELDIGE TAP ELLER SKADER.
+Denne begrensningen gjelder følgende:
+* Alle forhold relatert til programvaren, tjenester, innhold (inkludert kode) på tredjeparts webområder eller tredjeparts programmer
+* Krav knyttet til kontraktsbrudd, brudd på rettigheter og eventuelle påståtte garantier eller øvrige forpliktelser, objektivt ansvar, uaktsomhet eller annet subjektivt ansvar så langt dette er tillatt i henhold til gjeldende ufravikelig lov
+Begrensningen gjelder også hvis Microsoft visste, eller burde ha visst, om risikoen for tap eller skader. Ettersom det kan være at ditt land ikke tillater ansvarsfraskrivelse eller ansvarsbegrensning for tilfeldige skader, følgeskader eller andre skader, kan det hende at ovennevnte ansvarsfraskrivelse eller ansvarsbegrensning ikke gjelder for deg.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

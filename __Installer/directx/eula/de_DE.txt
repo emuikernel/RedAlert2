@@ -1,0 +1,39 @@
+MICROSOFT SOFTWARE: LIZENZBESTIMMUNGEN
+MICROSOFT DIRECTX END USER RUNTIME
+Diese Lizenzbestimmungen sind ein Vertrag zwischen Ihnen und der Microsoft Corporation (oder einer anderen Microsoft-Konzerngesellschaft, wenn diese an dem Ort, an dem Sie die Software erwerben, die Software lizenziert). Bitte lesen Sie die Lizenzbestimmungen aufmerksam durch. Sie gelten für die der oben genannten Software und gegebenenfalls für die Medien, auf denen Sie diese erhalten haben, sowie für alle von Microsoft diesbezüglich angebotenen
+* Updates
+* Ergänzungen
+* Internetbasierten Dienste
+* Supportleistungen
+Liegen letztgenannten Elementen eigene Bestimmungen bei, gelten diese eigenen Bestimmungen.
+DURCH DIE VERWENDUNG DER SOFTWARE ERKENNEN SIE DIESE BESTIMMUNGEN AN. FALLS SIE DIE BESTIMMUNGEN NICHT AKZEPTIEREN, SIND SIE NICHT BERECHTIGT, DIE SOFTWARE ZU VERWENDEN.
+Wenn Sie diese Lizenzbestimmungen einhalten, verfügen Sie über die nachfolgend aufgeführten Rechte.
+1. RECHTE ZUR INSTALLATION UND NUTZUNG. Sie sind berechtigt,eine beliebige Anzahl von Kopien der Software auf Ihren Geräten zu installieren und zu verwenden.
+2. GÜLTIGKEITSBEREICH DER LIZENZ. Die Software wird lizenziert, nicht verkauft. Dieser Vertrag gibt Ihnen nur einige Rechte zur Verwendung der Software. Microsoft behält sich alle anderen Rechte vor. Sie dürfen die Software nur wie in diesem Vertrag ausdrücklich gestattet verwenden, es sei denn, das anwendbare Recht gibt Ihnen ungeachtet dieser Einschränkung umfassendere Rechte. Dabei sind Sie verpflichtet, alle technischen Beschränkungen der Software einzuhalten, die Ihnen nur spezielle Verwendungen gestatten. Sie sind nicht dazu berechtigt:
+* technische Beschränkungen der Software zu umgehen 
+* die Software zurückzuentwickeln (Reverse Engineering), zu dekompilieren oder zu disassemblieren, es sei denn, dass (und nur insoweit) es durch das anwendbare Recht ungeachtet dieser Einschränkung ausdrücklich gestattet ist 
+* eine größere Anzahl von Kopien der Software als in diesem Vertrag angegeben oder vom anwendbaren Recht ungeachtet dieser Einschränkung ausdrücklich gestattet anzufertigen 
+* die Software zu veröffentlichen, damit andere sie kopieren können 
+* die Software zu vermieten, zu verleasen oder zu verleihen 
+* die Rechte an der Software oder diesen Vertrag auf Dritte zu übertragen oder
+* die Software für kommerzielle Software-Hostingdienste zu verwenden.
+3. SICHERUNGSKOPIE. Sie sind berechtigt, eine Sicherungskopie der Software anzufertigen. Sie dürfen diese nur zur erneuten Installation der Software verwenden.
+4. DOKUMENTATION. Jede Person, die über einen gültigen Zugriff auf Ihren Computer oder Ihr internes Netzwerk verfügt, ist berechtigt, die Dokumentation zu Ihren internen Referenzzwecken zu kopieren und zu verwenden.
+5. AUSFUHRBESCHRÄNKUNGEN. Die Software unterliegt den Exportgesetzen und -regelungen der USA sowie des Landes, aus dem sie ausgeführt wird. Sie sind verpflichtet, alle nationalen und internationalen Exportgesetze und -regelungen einzuhalten, die für die Software gelten. Zu diesen Gesetzen gehören Einschränkungen im Hinblick auf Bestimmungsorte, Endbenutzer und Endbenutzung. Weitere Informationen finden Sie unter www.microsoft.com/exporting, oder wenden Sie sich an das verbundene Unternehmen von Microsoft in Ihrem Land, siehe unter www.microsoft.com/worldwide oder für Deutschland unter www.microsoft.com/germany oder telefonisch unter (49) (0) 89-3176-0.
+6. SUPPORTLEISTUNGEN. Da diese Software "wie besehen" zur Verfügung gestellt wird, stellen wir möglicherweise keine Supportleistungen für sie bereit.
+7. GESAMTER VERTRAG. Dieser Vertrag sowie die Bestimmungen für von Ihnen verwendete Ergänzungen, Updates, internetbasierte Dienste und Supportleistungen stellen den gesamten Vertrag für die Software und die Supportleistungen dar.
+8. ANWENDBARES RECHT.
+a. Vereinigte Staaten. Wenn Sie die Software in den Vereinigten Staaten erworben haben, regelt das Gesetz des Staates Washington die Auslegung dieses Vertrags und gilt für Ansprüche, die aus einer Vertragsverletzung entstehen, ungeachtet von Prinzipien über Gesetzeskonflikte. Die Gesetze des Staates Ihres Wohnortes regeln alle anderen Ansprüche, einschließlich Ansprüche aus den Verbraucherschutzgesetzen des Staates, aus Gesetzen gegen unlauteren Wettbewerb und aus Schadenersatzverfahren.
+b. Außerhalb der Vereinigten Staaten. Wenn Sie die Software in einem anderen Land erworben haben, gelten die Gesetze dieses Landes.
+9. RECHTSKRAFT. Dieser Vertrag beschreibt bestimmte gesetzliche Rechte. Möglicherweise haben Sie unter den Gesetzen Ihres Landes weitergehende Rechte. Möglicherweise verfügen Sie außerdem über Rechte im Hinblick auf die Partei, von der Sie die Software erworben haben. Dieser Vertrag ändert nicht Ihre Rechte, die sich aus den Gesetzen Ihres Staates ergeben, sofern die Gesetze Ihres Staates dies nicht zulassen.
+10. AUSSCHLUSS VON GARANTIEN. DIE SOFTWARE WIRD „WIE BESEHEN“ LIZENZIERT. SIE TRAGEN DAS MIT DER NUTZUNG VERBUNDENE RISIKO. MICROSOFT GEWÄHRT KEINE AUSDRÜCKLICHEN GEWÄHRLEISTUNGEN ODER GARANTIEN. MÖGLICHERWEISE HABEN SIE UNTER DEN ÖRTLICH ANWENDBAREN GESETZEN ZUSÄTZLICHE VERBRAUCHERRECHTE, DIE DURCH DIESEN VERTRAG NICHT ABGEÄNDERT WERDEN KÖNNEN. IM DURCH DAS ÖRTLICH ANWENDBARE RECHT GESTATTETEN UMFANG SCHLIEßT MICROSOFT IMPLZIERTE GARANTIEN FÜR DIE GEBRAUCHSTAUGLICHKEIT, EIGNUNG FÜR EINEN BESTIMMTEN ZWECK UND NICHTVERLETZUNG VON RECHTEN DRITTER AUS.
+11. BESCHRÄNKUNG UND AUSSCHLUSS DES SCHADENERSATZES. SIE KÖNNEN VON MICROSOFT UND DEREN LIEFERANTEN NUR EINEN ERSATZ FÜR DIREKTE SCHÄDEN BIS ZU EINEM BETRAG VON 5 US-DOLLAR ERHALTEN. SIE KÖNNEN KEINEN ERSATZ FÜR ANDERE SCHÄDEN ERHALTEN, EINSCHLIESSLICH FOLGESCHÄDEN, SCHÄDEN AUS ENTGANGENEM GEWINN, SPEZIELLE, INDIREKTE ODER BEILÄUFIG ENTSTANDENE SCHÄDEN.
+Diese Beschränkung gilt:
+* jeden Gegenstand im Zusammenhang mit der Software, Diensten, Inhalten (einschließlich Code) auf Internetseiten von Drittanbietern oder Programmen von Drittanbietern
+* Ansprüche aus Vertragsverletzungen, Verletzungen der Garantie oder der Gewährleistung, verschuldensunabhängiger Haftung, Fahrlässigkeit oder anderen unerlaubten Handlungen im durch das anwendbare Recht gestatteten Umfang.
+Sie hat auch dann Gültigkeit, wenn Microsoft von der Möglichkeit der Schäden gewusst hat oder hätte wissen müssen. Obige Beschränkung und obiger Ausschluss gelten möglicherweise nicht für Sie, weil Ihr Land den Ausschluss oder die Beschränkung von beiläufig entstandenen Schäden, Folgeschäden oder sonstigen Schäden nicht gestattet.
+Wenn Sie die Software in DEUTSCHLAND oder in ÖSTERREICH erworben haben, findet die Beschränkung im vorstehenden Absatz „Beschränkung und Ausschluss des Schadenersatzes“ auf Sie keine Anwendung. Stattdessen gelten für Schadenersatz oder Ersatz vergeblicher Aufwendungen, gleich aus welchem Rechtsgrund einschließlich unerlaubter Handlung, die folgenden Regelungen:
+
+Microsoft haftet bei Vorsatz, grober Fahrlässigkeit, bei Ansprüchen nach dem Produkthaftungsgesetz sowie bei Verletzung von Leben, Körper oder der Gesundheit nach den gesetzlichen Vorschriften.
+
+Microsoft haftet nicht für leichte Fahrlässigkeit. Wenn Sie die Software jedoch in Deutschland erworben haben, haftet Microsoft auch für leichte Fahrlässigkeit, wenn Microsoft eine wesentliche Vertragspflicht verletzt. In diesen Fällen ist die Haftung von Microsoft auf typische und vorhersehbare Schäden beschränkt. In allen anderen Fällen haftet Microsoft auch in Deutschland nicht für leichte Fahrlässigkeit.
