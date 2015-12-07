@@ -1,0 +1,707 @@
+{\rtf1\ansi\ansicpg1252\uc1 \deff0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}{\f1\fswiss\fcharset0\fprq2{\*\panose 020b0604020202020204}Arial;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f14\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f34\froman\fcharset238\fprq2 Times New Roman CE;}{\f35\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f37\froman\fcharset161\fprq2 Times New Roman Greek;}{\f38\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f39\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f40\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f41\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f42\fswiss\fcharset238\fprq2 Arial CE;}{\f43\fswiss\fcharset204\fprq2 Arial Cyr;}
+{\f45\fswiss\fcharset161\fprq2 Arial Greek;}{\f46\fswiss\fcharset162\fprq2 Arial Tur;}{\f47\fswiss\fcharset177\fprq2 Arial (Hebrew);}{\f48\fswiss\fcharset178\fprq2 Arial (Arabic);}{\f49\fswiss\fcharset186\fprq2 Arial Baltic;}
+{\f50\fmodern\fcharset238\fprq1 Courier New CE;}{\f51\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f53\fmodern\fcharset161\fprq1 Courier New Greek;}{\f54\fmodern\fcharset162\fprq1 Courier New Tur;}{\f55\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f56\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f57\fmodern\fcharset186\fprq1 Courier New Baltic;}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;
+\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 Normal;}{\s1\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 1;}{\s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 
+heading 2;}{\s3\ql \li720\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 3;}{
+\s4\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 4;}{\s5\qc \li0\ri0\keepn\widctlpar\brdrt\brdrs\brdrw10\brsp20 
+\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext0 heading 5;}{\*\cs10 \additive Default Paragraph Font;}{
+\s15\qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext15 Title;}{\s16\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 
+\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext16 Subtitle;}{\s17\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \i\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext17 
+Body Text;}{\s18\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext18 Body Text 2;}{\*\cs19 \additive \ul\cf2 \sbasedon10 Hyperlink;}{
+\s20\ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext20 Body Text Indent 2;}{\s21\ql \li720\ri0\widctlpar\faauto\rin0\lin720\itap0 
+\f1\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \sbasedon0 \snext21 Body Text Indent 3;}}{\*\listtable{\list\listtemplateid-1\listsimple{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelspace0\levelindent0
+{\leveltext\'01*;}{\levelnumbers;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 }{\listname ;}\listid-2}{\list\listtemplateid-1093622622\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li720\jclisttab\tx720 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li1440\jclisttab\tx1440 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0
+\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f14\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li2160\jclisttab\tx2160 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li2880\jclisttab\tx2880 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li3600\jclisttab\tx3600 }{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f14\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li4320\jclisttab\tx4320 }
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li5040
+\jclisttab\tx5040 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 
+\fi-360\li5760\jclisttab\tx5760 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f14\chbrdr\brdrnone\brdrcf1 
+\chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li6480\jclisttab\tx6480 }{\listname ;}\listid1782918702}{\list\listtemplateid-1895937100\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\leveltemplateid67698703\'02\'00.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li720\jclisttab\tx720 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li1440\jclisttab\tx1440 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'02.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li2160\jclisttab\tx2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li2880\jclisttab\tx2880 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li3600\jclisttab\tx3600 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li4320\jclisttab\tx4320 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li5040\jclisttab\tx5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-360\li5760\jclisttab\tx5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-180\li6480\jclisttab\tx6480 }{\listname ;}\listid1915972061}{\list\listtemplateid2012643612{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelold\levelspace120\levelindent720{\leveltext\'02\'00.;}{\levelnumbers\'01;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-720\li720 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat15\levelold\levelspace120\levelindent720{\leveltext\'04\'00.\'01.;}{\levelnumbers\'01\'03;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-720\li1440 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelold\levelspace120\levelindent720{\leveltext\'06\'00.\'01.\'02.;}{\levelnumbers\'01\'03\'05;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-720\li2160 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelold\levelspace120\levelindent720{\leveltext\'08\'00.\'01.\'02.\'03.;}{\levelnumbers\'01\'03\'05\'07;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-720\li2880 }{\listlevel\levelnfc0\levelnfcn0\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent1080{\leveltext\'0a\'00.\'01.\'02.\'03.\'04.;}{\levelnumbers\'01\'03\'05\'07\'09;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-1080\li3960 }{\listlevel\levelnfc0
+\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent1080{\leveltext\'0c\'00.\'01.\'02.\'03.\'04.\'05.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-1080\li5040 }
+{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent1440{\leveltext\'0e\'00.\'01.\'02.\'03.\'04.\'05.\'06.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d;}\b\chbrdr\brdrnone\brdrcf1 
+\chshdng0\chcfpat1\chcbpat1 \fi-1440\li6480 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent1440{\leveltext\'10\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.;}{\levelnumbers
+\'01\'03\'05\'07\'09\'0b\'0d\'0f;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-1440\li7920 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelold\levelspace120\levelindent1800{\leveltext
+\'12\'00.\'01.\'02.\'03.\'04.\'05.\'06.\'07.\'08.;}{\levelnumbers\'01\'03\'05\'07\'09\'0b\'0d\'0f\'11;}\b\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1 \fi-1800\li9720 }{\listname ;}\listid2145805963}}{\*\listoverridetable
+{\listoverride\listid2145805963\listoverridecount0\ls1}{\listoverride\listid-2\listoverridecount9{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat0\levelold\levelspace0\levelindent0{\leveltext
+\'01\u-3913 ?;}{\levelnumbers;}\f3\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 }}{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\'01o;}{\levelnumbers;}\f2\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li1440\jclisttab\tx1440 }}{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0
+{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f14\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li2160\jclisttab\tx2160 }}{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li2880\jclisttab\tx2880 }}{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li3600\jclisttab\tx3600 }}{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f14\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li4320\jclisttab\tx4320 }}{\lfolevel\listoverrideformat{\listlevel\levelnfc23
+\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li5040\jclisttab\tx5040 }}{\lfolevel\listoverrideformat
+{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01o;}{\levelnumbers;}\f2\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li5760\jclisttab\tx5760 }}{\lfolevel
+\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\'01\u-3929 ?;}{\levelnumbers;}\f14\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 \fi-360\li6480
+\jclisttab\tx6480 }}\ls2}{\listoverride\listid1915972061\listoverridecount0\ls3}{\listoverride\listid1782918702\listoverridecount0\ls4}{\listoverride\listid-2\listoverridecount1{\lfolevel\listoverrideformat{\listlevel\levelnfc23\levelnfcn23\leveljc0
+\leveljcn0\levelfollow0\levelstartat0\levelold\levelspace0\levelindent0{\leveltext\'01\u-3913 ?;}{\levelnumbers;}\f3\chbrdr\brdrnone\brdrcf1 \chshdng0\chcfpat1\chcbpat1\fbias0 }}\ls5}}{\*\revtbl {Unknown;}}{\info
+{\title Command & Conquer\'99: Red Alert 2\'99 - Yuri's Revenge\'99}{\subject Readme - 1.000 - English}{\author Frank Hsu}{\operator jvalladar}{\creatim\yr2001\mo8\dy18\hr6\min21}{\revtim\yr2001\mo8\dy18\hr18}{\version3}{\edmins0}{\nofpages16}
+{\nofwords3662}{\nofchars20874}{\*\company Westwood Studios Pacific}{\nofcharsws25634}{\vern8269}}\widowctrl\ftnbj\aenddoc\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180\dghorigin1701
+\dgvorigin1984\dghshow1\dgvshow1\jexpand\viewkind4\viewscale100\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule \fet0\sectd \linex0\endnhere\sectdefaultcl {\*\pnseclvl1\pndec\pnb1
+\pnstart2\pnindent720\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl2\pndec\pnprev1\pnb1\pnstart15\pnindent720\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnprev1\pnb1\pnstart1\pnindent720\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl4\pndec\pnprev1\pnb1
+\pnstart1\pnindent720\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl5\pndec\pnprev1\pnb1\pnstart1\pnindent1080\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl6\pndec\pnprev1\pnb1\pnstart1\pnindent1080\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl7\pndec\pnprev1\pnb1
+\pnstart1\pnindent1440\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl8\pndec\pnprev1\pnb1\pnstart1\pnindent1440\pnsp120\pnhang{\pntxta .}}{\*\pnseclvl9\pndec\pnprev1\pnb1\pnstart1\pnindent1800\pnsp120\pnhang{\pntxta .}}\pard\plain \qc \li0\ri0\widctlpar\brdrt
+\brdrs\brdrw10\brsp20 \aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\f1\fs32 Command & Conquer\'99: Yuri\rquote s Revenge\'99
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1\fs32 
+\par }{\b\i\f1\fs32 LATE BREAKING NEWS FROM THE FRONT}{\b\i\f1\fs40 
+\par }{\f1 
+\par }{\f1\fs16 Copyright 2001 Electronic Arts Inc. All rights reserved.
+\par Westwood Studios\'99 is an Electronic Arts\'99 brand.
+\par }{\f1 
+\par 
+\par Version #:  1.000
+\par August 30}{\f1\super th}{\f1 , 2001
+\par 
+\par 
+\par For latest news and updates visit }{\f1\ul WWW.WESTWOOD.COM}{\f1 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\brdrt\brdrs\brdrw10\brsp20 \aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1  - - }{\b\i\f1 TOP SECRET -}{\b\f1  -\tab 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par Commander:
+\par 
+\par Welcome back!  Thank you for extending your tour of duty.  Your outstanding service is greatly appreciated by the High Command and people all over the World.  Due to the chaotic disruptions caused by Yuri\rquote 
+s psychic technologies, the following information must be kept classified until you are ready for action.  Review the following bul
+letin from Command Headquarters with great care.  Commit it to memory, so you can be decisive and victorious out on the battlefield!
+\par 
+\par Good Luck.
+\par 
+\par }\pard\plain \s15\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b0\fs24 --President Michael Dugan
+\par }\pard \s15\ql \li0\ri0\widctlpar\brdrb\brdrs\brdrw15\brsp20 \aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b0\fs24 
+\par 
+\par 
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\f1\ul 
+\par }\pard\plain \s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {GENERAL CHANGES & FEATURE UPDATES
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par }\pard \ql \li0\ri0\widctlpar\faauto\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li0\ri0\keepn\widctlpar\faauto\rin0\lin0\itap0 {\b\f1 General:}{\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 
+In the Game Option screen, the Game Resolution setting only sets the in-game (battlefield) resolution.  The game shell screen resolution is locked at 800 by 600 pixels.
+\par }\pard \ql \li380\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin380\itap0 {\f1  
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 With the Short Game selected, Yuri\rquote 
+s Slave Miner is excluded from the winning condition.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+Now all players can see the infantry pips of any fortifiable civilian building, regardless of which player garrisons it.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+When a unit is mind controlled, all players will see the initial mind-control line from the controller to its victim.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+The T (unit-type select) and P (all-unit select) hot-keys will automatically exclude units inside of a Tank Bunker.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+In Red Alert 2, sometimes a game would not end if the last remaining unit were in a mind-controlled vehicle.  Now, if this should happen, the unit inside will be automatically killed, and the ex-owner of the captured unit will be declared the loser.
+
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+Tab-flash-for-readiness has been updated.  The following features will only flash the tab for a bit to inform the player when fully charged: Spy Plane, Force Shield, Psychic Reveal.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+If playing behind a firewall, the preview maps do not get transmitted to other players.
+\par }\pard \ql \li380\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin380\itap0 {\f1 
+\par 
+\par }\pard \ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\b\f1 Units & Structures:}{\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 Magnetron can only levitate vehicles, not infantry.
+\par }\pard \ql \li380\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin380\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+The Brute is not allowed inside of an IFV.  However, the Brute is allowed inside other transports, but only as a passenger.
+\par }\pard \ql \li380\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin380\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+The Hero units (Tanya, Boris, and Yuri Prime) are not allowed to use their special attack from within the Battle Fortress.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 Kirov spinning every time it acquires an order/target is now fixed.
+
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+Setting waypoints for planes from within the radar map has been disabled.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+Floating Disc will auto target and shoot any base defenses that are powered (i.e. Prism Tower and Tesla Coil).  However, the Floating Disc will not auto target and shoot any base defenses that are not powered (i.e. Pillbox and Sentry Gun).
+\par }\pard \ql \li380\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin380\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 Psychic Dominator permanently \'93captures\'94
+ its victims rather than just mind controls them for a short duration.  Once a unit has been psychic dominated (purple halo on the unit), it can never be mind controlled again.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 Yuri Prime and Yuri Clone\rquote 
+s psychic blast do not harm friendly units.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+Cloning Vats allow the player to make a second Hero unit (Tanya, Boris, and Yuri Prime).
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par 
+\par }\pard \ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\b\f1 Multiplay:}{\f1 
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 In the Westwood Online Quick Match 
+and Quick Co-op games, the Super Weapons setting is always on, and the Crates setting is always to off.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+In Team Alliance game mode, you must set your teams at the start.  Once the battle has started, you are not allowed to switch alliance.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 In Land 
+Rush game mode, the Yuri player begins with a few Attack Dogs among his starting units.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+In Skirmish: Battle mode, all AI players start out on the same team fighting against the human player.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par 
+\par 
+\par }\pard \ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\b\f1 Other:}{\f1 
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 Known problems with the Cirrus Logic 5464 video card:
+\par {\pntext\pard\plain\s21 \f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \s21\ql \fi-380\li1100\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin1100\itap0 
+\f1\fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24 Systems with this device may experience the following problems: low frame rate, slow movie playback, and audio distortion.
+\par }\pard\plain \ql \li380\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin380\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 Known problems with USB sound devices:
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li1100\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin1100\itap0 {\f1 
+There seems to be some sort of conflict with USB sound devices.  If using these devices, the game may load with no audio.  Examples of such devices: the Altec Lansing ADA70 USB Speakers, Microsoft Digital Sound System 80 USB.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 Known problems with Ensoniq SoundScape and OPTI 82C 931:
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li1100\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin1100\itap0 {\f1 
+Systems with this device may experience the following problems: some random audio stuttering and popping in game and movies.
+\par }\pard \ql \li720\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin720\itap0 {\f1\fs20 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2\rin0\lin760\itap0 {\f1 
+Information from the previous Readme files still applies.  Please review the archive section below for additional information.
+\par }\pard\plain \s15\ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b0\fs24 
+\par }\pard \s15\qc \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\fs24 \sect }\sectd \linex0\endnhere\sectdefaultcl {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang{\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang{\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang{\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang
+{\pntxtb (}{\pntxta )}}\pard\plain \s15\qc \li0\ri0\widctlpar\brdrt\brdrs\brdrw10\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \b\f1\fs32\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\ul 
+
+\par README ARCHIVE SECTION
+\par }\pard \s15\qc \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {
+\par 
+\par 
+\par }\pard \s15\qc \li0\ri0\widctlpar\brdrt\brdrs\brdrw10\brsp20 {\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {Command & Conquer: Red Alert 2\'99
+\par }\pard\plain \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1\fs32 
+\par }\pard\plain \s16\qc \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\b\fs32 LATE BREAKING NEWS FROM THE FRONT}{\b 
+\par }\pard\plain \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par Copyright 2000 Electronic Arts Inc. All rights reserved.
+\par Westwood Studios}{\f1\super TM}{\f1  is an Electronic Arts}{\f1\super TM}{\f1  brand.
+\par 
+\par Patch 1.006
+\par 
+\par }\pard\plain \s1\ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {May 25}{\super th}{, 2001
+\par }\pard\plain \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par }\pard\plain \s1\ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\outlinelevel0\adjustright\rin0\lin0\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+For latest news and updates visit WWW.WESTWOOD.COM
+\par }\pard\plain \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par 
+\par --------------------------------------------TOP SECRET--------------------------------------------
+\par 
+\par Commander:
+\par 
+\par Thanks for your continued participation in the war effort. We have been able to make some modifications to your tactical display that should improve your experiences on the battlefield.
+\par 
+\par Good Luck.
+\par 
+\par --President Michael Dugan
+\par 
+\par ------------------------------------------------------------------------------------------------------------
+\par 
+\par 
+\par }\pard\plain \s2\ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {GENERAL CHANGES 
+\par }\pard\plain \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\b\f1 Fixes:}{\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 
+Chrono IFV no longer loses its target when selecting a target further than his firing range. Now it moves within attack range and fires without losing focus at any moment.
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc1\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr1\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 
+Modified official maps are not transferred over Internet games. 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc2\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr2\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 If a player d
+isconnects 3 times in one game for durations more than 25 seconds each, the game will finish and be awarded to the non-disconnector at the 3rd time.  
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc3\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr3\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 
+If walls or other buildings block the Soviet Barracks exit, no unit is built even if the user has a Cloning Vat. The cost is refunded to the player. 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc4\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr4\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 
+No other infantry units other than those with explosives can blow up buildings when joining to a Tanya command waypoint.
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard\plain \s2\ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {
+WESTWOOD ONLINE CHANGES OR FEATURE ADDITIONS
+\par }\pard\plain \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\faauto\rin0\lin0\itap0 {\b\f1 New Features}{\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar\tx720{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc5\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr5\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 
+NAT (Network Address Translation) and Firewall support }{\b\i\f1 (Notice: See Firewall & NAT Support later on this document)}{\b\f1 
+\par }\pard \ql \li0\ri0\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard\plain \s4\ql \li0\ri0\keepn\widctlpar{\*\pn \pnlvlcont\ilvl0\ls0\pnrnot0\pndec }\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 \b\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {Fixes
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard\plain \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc6\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr6\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 
+\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 In 4 player Internet games,  Red Alert 2}{\f1\super TM }{\f1 now behaves correctly and continues the match with the remaining players when the host loses connection.
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc7\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr7\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 
+The game now behaves correctly by continuing 4 player Internet games when the host gets disconnected from his ISP but is able to reconnect in time.
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\aspalpha\aspnum\faauto\ls2
+\aspalpha\aspnum\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc8\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr8\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright\rin0\lin760\itap0 {\f1 
+In-game chat,  whenever the user types a message longer than a screen width the text is transmitted and displayed properly.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par 
+\par 
+\par }\pard\plain \s4\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 \b\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs28 FIREWALL AND NAT SUPPORT
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par  Red Alert 2}{\f1\super TM }{\f1 now automatically supports firewalls and network address translating (NAT) while playing on Westwood Online.
+\par 
+\par }\pard\plain \s17\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \i\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 Note: in this document the term \'93firewall\'94 is used to refer to both firewall and \'93
+network address translation\'94 products.
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par The following hardware/software was used in testing:
+\par 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1\ul Hardware:
+\par }{\f1 Linksys BEFSR11 / BEFSR14
+\par }\pard\plain \s3\ql \li720\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel2\adjustright\rin0\lin720\itap0 \f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {Netgear RT311 / RT314
+\par }\pard\plain \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 DLink DI-701 / DI-702
+\par SonicWall Tele / Soho2
+\par 
+\par }{\f1\ul Software:
+\par }{\f1 Windows 98 ICS (Internet Connection Sharing)
+\par Sygate Home Networking 4.0
+\par NAT32 Plus 1.4 (build 1-16-01)
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par Even if your firewall was not listed, it is likely that it will work with this patch.  Many firewalls have the same behavior.  
+\par 
+\par 
+\par 
+\par 
+\par }\pard\plain \s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {Automatic Firewall/NAT support
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par  Red Alert 2}{\f1\super TM}{\f1 now automatically supports the above firewalls }{\i\f1 out of the box, }{\f1 with no need to
+ configure esoteric settings on the firewalls, such as port forwarding, triggers, static mapping or any of the other complicated settings that might otherwise be needed.
+\par 
+\par Support is complete and transparent, including the following features:
+\par 
+\par {\listtext\pard\plain\f1 \hich\af1\dbch\af0\loch\f1 1.\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls3\adjustright\rin0\lin720\itap0 {\f1 Supports hosting or joining any game when behind a firewall.
+\par {\listtext\pard\plain\f1 \hich\af1\dbch\af0\loch\f1 2.\tab}
+Supports multiple players behind the same firewall; if you have more than one system on a home LAN sharing a cable modem, DSL or other connection you can now play against each other or against other players on the  Internet.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard\plain \s18\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cf0 Now when a game is launched on Westwood Online, you will see a \'93Connecting To Other Players
+\'94 dialogue box.  Here you will be able to see your connectivity to the other players in the game.  If any player cannot establish a connectio
+n with another, the game will not launch.  A message will appear explaining who is having difficulty connecting.
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par It is necessary on some firewalls to wait for packets to be received from other players before trying to connect.  If your firewall has this behavior, you will need to enable \'93Send Delay\'94 in the network options.  From the main menu, select \'93
+Options\'94 then \'93Network\'94.  Using this setting may cause connection problems with other players if used unnecessarily.  Please refer to your firewall documentation to see how your firewall operates. }{\i\f1 
+(note: Netgear firewalls model numbers RT311 & RT314 were found to require this setting during our testing)
+\par 
+\par }\pard\plain \s17\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \i\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 Note to firewall manufacturers: if your firewall products are not among the tested firewalls we
+\rquote d love to hear from you! Contact }{\b\f1  }{\field\flddirty{\*\fldinst {\b\f1  HYPERLINK "mailto:gameresearch@westwood.com" }{\b\f1 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b02000000170000001a000000670061006d006500720065007300650061007200630068004000770065007300740077006f006f0064002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b420000006d00610069006c0074006f003a00670061006d00650072006500
+7300650061007200630068004000770065007300740077006f006f0064002e0063006f006d000000000000000000}}}{\fldrslt {\cs19\b\f1\ul gameresearch@westwood.com}}}{\b\f1  in Westwood Studios   }{\f1 
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\i\f1 
+\par 
+\par }\pard\plain \s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {Manual Firewall/NAT support
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par In addition to the automatic firewall support features listed above, we have included an advanced setting for advanced users that can be used if all else fails. From the main menu, select \'93Options\'94 then \'93Network\'94. Under the \'93
+Internet Firewall Settings\'94 section you\rquote ll see a \'93port number\'94 option, which can be used to instruct  Red Alert 2}{\f1\super TM}{\f1 
+to always use the port specified here. You should use a port number between 1024 and 65535. Every computer that you want to play the game on should be given a different port number if they are all behind the same firewall.
+\par }\pard\plain \s18\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cf0 To return to the automatic mode, remove the port number from the \'93port number\'94 edit box.
+
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par If you specify a port for Red Alert 2}{\f1\super TM}{\f1  to use then you will have to manually configure your firewall with static I
+P and port forwarding to route packets to the correct computer. Each firewalls configuration method is different so consult your firewalls documentation for instructions on how to do this. You will probably have to assign a static IP to each computer conn
+ecting to the firewall otherwise the static forwarding rules may not work after restarting a computer or firewall.
+\par 
+\par 
+\par }\pard\plain \s4\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel3\adjustright\rin0\lin0\itap0 \b\f1\fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs28 Dual Network Cards in Windows 98
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par A Windows 98 client can only have one gateway at a time. This means that if you are running  Red Alert 2}{\f1\super TM}{\f1 
+ in a Windows 98 machine that has 2 or more   network cards you will need to get sure that the traffic is going through the right one. The best way to do this is disabling all network cards except the one who gives you the connectivity to the Internet/LAN
+. Otherwise you can have connectivity problems when running Red Alert 2}{\f1\super TM}{\f1 . 
+\par 
+\par 
+\par }\pard\plain \s2\ql \li0\ri0\keepn\widctlpar\aspalpha\aspnum\faauto\outlinelevel1\adjustright\rin0\lin0\itap0 \b\f1\fs28\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {FINALALERT 2\'99 SUPORT AND TIPS
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par FinalAlert 2}{\f1\super TM}{\f1  is a mission editor for Red Alert 2}{\f1\super TM}{\f1 .  It can be downloaded from }{\field\flddirty{\*\fldinst {\f1  HYPERLINK "http://www.westwood.com" }{\f1\revised\revdttm643179332 {\*\datafield 
+00d0c9ea79f9bace118c8200aa004ba90b0200000017000000110000007700770077002e00770065007300740077006f006f0064002e0063006f006d000000e0c9ea79f9bace118c8200aa004ba90b3200000068007400740070003a002f002f007700770077002e00770065007300740077006f006f0064002e0063006f00
+6d002f00000000000000000085004e00000033315c0010005200}}}{\fldrslt {\cs19\f1\ul www.westwood.com}}}{\f1  free of ch
+arge.  Westwood Studios and the original FinalAlert developer have been hard at work adding and improving functionality.  Here are some of the items we\rquote ve been working on.
+\par }{\b\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc1\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr1\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Framework mode is now included.
+\par }\pard \ql \fi-720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc2\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr2\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Allows raising and lowering of tile placement heights.
+\par }\pard \ql \fi-720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc3\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr3\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Randomizes land tiles within the editor to improve open area aesthetics in the map.  
+\par }\pard \ql \li360\ri0\widctlpar\tx720\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc4\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr4\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Fixes bugs for raising/lowering terrain.  FinalAlert 2\'99 used to create map holes that are very difficult to detect and fix.  Framework mode helps with this a great deal also.
+\par }\pard \ql \fi-720\li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc5\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr5\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Includes an indication of current terrain height.
+\par }\pard \ql \fi-720\li360\ri0\widctlpar\aspalpha\aspnum\faauto\ilvl12\adjustright\rin0\lin360\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc6\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr6\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Includes an indication of current ore/gem count on map.
+\par }\pard \ql \fi-720\li0\ri0\widctlpar\tx720\aspalpha\aspnum\faauto\ilvl12\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc7\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr7\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Includes Uninstall.
+\par }\pard \ql \fi-720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\ilvl12\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc8\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr8\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Increased time allowed on Westwood Online to transfer maps between players.  Now up to 3 minutes.  
+\par }\pard \ql \fi-720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\ilvl12\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc9\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr9\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Only allows FinalAlert 2 \'99 map sharing in non-tourney games.
+\par }\pard \ql \fi-720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\ilvl12\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc10\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr10\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Allows sharing of map names.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc11\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr11\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Includes random tree placement tool.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc12\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr12\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Optimizes the FinalAlert 2 \'99 map load times, especially when there are lots of custom maps in the game folder.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc13\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr13\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Red Alert 2}{\f1\super TM }{\f1 will not add starting spots to a FinalAlert 2 \'99 map if it has 2 or more predefined starting spots.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par {\pntext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-380\li760\ri0\widctlpar\tx720{\*\pn \pnlvlblt\ilvl0\ls2\pnrnot0\pnf3 {\pntxtb \'b7}}\faauto\ls2
+\faauto\ls2\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0
+\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc9\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr9\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\rin0\lin760\itap0 {\f1 Red Alert 2}{\f1\super TM }{\f1 
+now can now use maps created with FinalAlert 2 \'99 in all game modes.
+\par }\pard \ql \li380\ri0\widctlpar\tx720\faauto\rin0\lin380\itap0 {\f1 
+\par {\listtext\pard\plain\f3 \loch\af3\dbch\af0\hich\f3 \'b7\tab}}\pard \ql \fi-360\li720\ri0\widctlpar\jclisttab\tx720\aspalpha\aspnum\faauto\ls4
+\jclisttab\tx720\aspalpha\aspnum\faauto\ls4\pnrdate-1504310163\pnrstart0\pnrxst1\pnrxst0\pnrxst183\pnrxst240\pnrstop4\pnrstart1\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrrgb0\pnrstop9\pnrstart2\pnrnfc23\pnrnfc23\pnrnfc23
+\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc23\pnrnfc0\pnrnfc0\pnrnfc14\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrnfc0\pnrstop18\pnrstart3\pnrpnbr14\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0
+\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrpnbr0\pnrstop36\adjustright
+\rin0\lin720\itap0 {\f1 Allows map names to appear when using FinalAlert 2 \'99 (User created) maps.
+\par }\pard \ql \li360\ri0\widctlpar\tx720\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0 {\f1 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 Please note:  When a custom made map is transferred to a guest player, it will not become available in the map listing until Red Alert}{\f1\super  }{\f1 2}{\f1\super TM 
+}{\f1 is restarted.  Therefore, if more than one game is going to be set on a custom map, it is recommended that the guest(
+s) quit the game after the first match (once the map has been transferred).  Otherwise the map will be transferred every time a new game is started.
+\par }\pard \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par 
+\par \sect }\sectd \linex0\endnhere\sectdefaultcl \pard\plain \s5\qc \li0\ri0\keepn\widctlpar\brdrt\brdrs\brdrw10\brsp20 \aspalpha\aspnum\faauto\outlinelevel4\adjustright\rin0\lin0\itap0 \b\f1\fs32\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cf0 
+Command & Conquer\'99: Red Alert 2\'99
+\par }\pard\plain \qc \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par }{\b\i\f1\fs40 LATE BREAKING NEWS FROM THE FRONT
+\par }{\f1 
+\par }{\f1\fs16 Copyright 2000 Electronic Arts Inc. All rights reserved.
+\par Westwood Studios\'99 is an Electronic Arts\'99 brand.
+\par }{\f1 
+\par 
+\par September 23, 2000
+\par 
+\par For latest news and updates visit }{\f1\ul WWW.WESTWOOD.COM}{\f1 
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par  - - }{\b\i\f1 TOP SECRET -}{\b\f1  -\tab 
+\par }{\f1 
+\par Commander:
+\par 
+\par Thank you, for joining up. Your service wi
+ll not go unrecognized. Please take care to read the following bulletin from Command Headquarters so that you are fully briefed on the current situation. Due to battlefield conditions, certain information must be kept classified until you are ready for ac
+tion.
+\par 
+\par Good Luck.
+\par 
+\par --President Michael Dugan
+\par 
+\par }{\b\f1\ul 
+\par }\pard \ql \fi-390\li390\ri0\widctlpar\tx390\aspalpha\aspnum\faauto\adjustright\rin0\lin390\itap0 {\b\f1 1.\tab }{\f1\ul WINDOWS 95/98/NT/Millenium}{\b\f1 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par }\pard \ql \fi-390\li1110\ri0\widctlpar\tx1440\aspalpha\aspnum\faauto\adjustright\rin0\lin1110\itap0 {\b\f1 1.1.\tab }{\f1\ul Microsoft DirectX}{\b\f1 
+\par 1.2.\tab }{\f1\ul Microsoft Office Toolbar}{\b\f1 
+\par 1.3.\tab }{\f1\ul Windows NT 4.0}{\b\f1 
+\par 1.4.\tab }{\f1\ul Windows ME}{\b\f1  
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par }\pard \ql \fi-360\li360\ri0\widctlpar\tx360\aspalpha\aspnum\faauto\adjustright\rin0\lin360\itap0 {\b\f1 2.\tab }{\f1\ul TROUBLE SHOOTING}{\b\f1 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par }\pard \ql \fi-720\li1440\ri0\widctlpar\tx1440\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\b\f1 2.1.\tab }{\f1\ul Known Video Card Issues}{\b\f1 
+\par 2.2.\tab }{\f1\ul Known Sound Card Issues}{\b\f1 
+\par 2.3.\tab }{\f1\ul Known Direct X Issues}{\b\f1 
+\par 2.4.\tab }{\f1\ul Gateway Computer Users}{\b\f1 
+\par 2.5.\tab }{\f1\ul Virtual Memory Settings}{\b\f1 
+\par 2.6.\tab }{\f1\ul Known RealPlayer Issues}{\b\f1 
+\par 2.7.\tab }{\f1\ul AutoPlay}{\b\f1 
+\par 2.8.\tab }{\f1\ul 16 bit CD-ROM drivers}{\b\f1 
+\par 2.9.\tab }{\f1\ul CD-Changers and Multi-Drivers}{\b\f1 
+\par 2.10.\tab }{\f1\ul Choppy movie performance}{\b\f1 
+\par 2.11.\tab }{\f1\ul Power Saving Mode}{\b\f1 
+\par 2.12.\tab }{\f1\ul Periodic Slowdown}{\b\f1 
+\par 2.13.\tab }{\f1\ul Game Updates and Patches}{\b\f1 
+\par 2.14.\tab }{\f1\ul Connection Speed Slider}{\b\f1 
+\par {\listtext\pard\plain\b\f1 \hich\af1\dbch\af0\loch\f1 2.15.\tab}}\pard \ql \fi-720\li1440\ri0\widctlpar\tx1440\aspalpha\aspnum\faauto\ls1\ilvl1\adjustright\rin0\lin1440\itap0 {\f1\ul Dual Network Cards and IPX Issues:
+\par {\listtext\pard\plain\b\f1 \hich\af1\dbch\af0\loch\f1 2.16.\tab}Firewall Issues}{\b\f1 
+\par {\listtext\pard\plain\b\f1 \hich\af1\dbch\af0\loch\f1 2.17.\tab}}{\f1\ul Network Address Translation (NAT) Games:
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\b\f1 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 3.\tab }{\f1\ul GAMEPLAY INFO & UPDATES}{\b\f1 
+\par }{\f1 
+\par }\pard \ql \fi-720\li1440\ri0\widctlpar\tx1440\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\b\f1 3.1.\tab }{\f1\ul Engineers}{\b\f1 
+\par 3.2.\tab }{\f1\ul Rankings for Ladders and Tournaments over Westwood Online}{\b\f1 
+\par 3.3.\tab }{\f1\ul Quick Match over Westwood Online}{\b\f1 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par 
+\par }{\b\f1 1.\tab WINDOWS 95/98/NT/Millenium
+\par }{\f1 
+\par \tab }{\b\f1 1.1. Microsoft DirectX:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Command & Conquer: Red Alert 2 is a Microsoft DirectX application. Version 7.0 of Microsoft DirectX i
+s included on the CD and you have the option to install it when Command & Conquer: Red Alert 2 is installed.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Under some early versions of Windows 95, DirectX 7.0 cannot be installed directly from the Command & Conquer: Red Alert 2 installer. If this occur
+s, please run DXSetup.exe located on the CD in the DXSetup folder.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1  
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+All Microsoft DirectX drivers are located in the DXSetup folder off of the root of the CD. To reinstall the Microsoft DirectX drivers go into the DXSetup folder and run DXSetup.exe. You c
+an explore the CD by choosing the "Explore the CD" option in the AutoPlay title screen. If you have difficulty running Windows 95/98 after these new Microsoft DirectX drivers have been installed, please contact your local Microsoft subsidiary, or write:
+
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 \tab Microsoft Customer Sales and Service,
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 \tab \tab One Microsoft Way,
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 \tab Redmond, WA 98052-6399, USA
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par \tab \tab USA telephone: 1-800-426-9400
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 \tab International telephone: ++1-206-882-8080
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par \tab }{\b\f1 1.2. Microsoft Office Toolbar:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 If you make use of this feature of Micro
+soft Office and it appears over the game screen when playing Command & Conquer: Red Alert 2 you will have to disable the Office Toolbar before playing.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par \tab }{\b\f1 1.3. Windows NT 4.0:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Command & Conquer: Red Alert 2 requires Service Pack 3 or later versions to be i
+nstalled in order to work with Windows NT 4.0. Please contact your computer manufacturer if you need to get Service Pack 3.
+\par 
+\par }{\b\f1 1.4. Windows ME:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Windows ME DirectX appears to have hardware conflicts with some 2mb video cards. The cards may work well with Win
+dows ME itself, and even other games, but with Red Alert 2 you may experience black screen lockups when loading the game. The problem may be corrected by updating the video card driver to Windows ME compatible drivers, updating your version of DirectX, or
+ upgrading to a 4mb card or higher.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }{\b\f1 
+\par 2.\tab TROUBLE SHOOTING
+\par }{\f1 
+\par \tab }{\b\f1 2.1. Known Video Card Issues:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+Video monitor settings may need to be adjusted after installing the Microsoft DirectX video drivers. If you screen distorts, or is shifted horizontally or vertically, you can return it to normal by adjusting the controls on your monitor. 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+Most video display problems can be corrected by installing the latest drivers for your particular card. Please consult your video card documentation for details on how to get the latest drivers for your card. 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+If you are using the Microsoft Theme Pack and have selected a custom cursor, video corruption can occur. For best results, please use default cursors while playing Command & Conquer: Red Alert 2.
+\par 
+\par Users with integrated Intel 3D graphic cards (2MB AGP) may experience refresh problems at high resolutions (above 640x480). In order to fix this problem, modify the [VIDEO] section of the RA2.INI file located in the RA2 root directory to include: 
+\par 
+\par }\pard \ql \li1440\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin1440\itap0 {\b\f1 VideoBackBuffer=no
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 (This also includes any users with low end video cards, experiencing any trails or refresh problems at any resolution)
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\b\f1 2.2. Known Sound Card Issues:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Old SoundBlaster AWE 64 and AWE 32 sound card drivers can cause skipping and repeating sound that may cause your computer 
+to run Command & Conquer: Red Alert 2 much slower than normal. If you have one of these sound cards and are experiencing these symptoms, please contact your card manufacturer for latest drivers.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Audio may stutter on certain systems running Windows NT. To correct this problem you must install the latest audio driver for your sound card.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+Most sound card problems can be corrected by installing the latest drivers for your particular card. Please consult your sound card documentation for details on how to get the latest drivers.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 If you are using USB speakers, do not turn off the speakers during gameplay. Doing so may cause your system to become unstable and even crash.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\b\f1 2.3. Known DirectX Issues:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 If another application is using the sound card while trying to 
+install or run the game, a "DXSound Error" will appear. If this error occurs, please close all applications and run the install or game again.
+\par 
+\par }{\b\f1 2.4. Gateway Computer Users:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 If you are using a Gateway computer with "Gateway GoBack" software by WildFile run
+ning in the background, you may experience lockups in Red Alert 2. GoBack is loaded in the Windows system tray (by the clock) and represented by two yellow arrows. To close out GoBack, right click on the double yellow arrows in the system tray, and select
+ close. It is recommended that you close all programs running in the background before starting Red Alert 2.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par \tab }{\b\f1 2.5. Virtual Memory Settings:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Command & Conquer: Red Alert 2 may need to use more RAM than is present on your system. Windows 95/98 automatically
+ takes care of this by using what is known as "Virtual Memory" - which uses space on your hard disk to simulate the memory it needs and swaps data back and forth from your hard disk as required. Windows 95/98 allows you to manually set the amount of hard 
+drive space it uses for Virtual Memory: WE HIGHLY RECOMMEND THAT YOU DO NOT DO THIS! To let Windows 95/98 manage the Virtual Memory, go to the Windows 95/98 start menu, select 'settings\\control panel', then double-click 'system', click 'performance\\file
+\\system\\virtual memory' and then select 'Let Windows manage my virtual memory settings (recommended).'
+\par 
+\par }{\b\f1 2.6. Known RealPlayer Issues:
+\par }{\f1 
+\par RealPlayer seems to have a conflict with the movie player used in Red Alert 2. With RealPlayer's "Start Center" feature enabl
+ed (which seems to keep RealPlayer resident in some form) we have found stability issues when exiting Red Alert 2 as it goes to the desktop.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }{\b\f1 \tab 2.7. AutoPlay:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 If your CD does not AutoPlay when inserted in the drive, you may have this feature disabled. To E
+nable AutoPlay, right click on 'My Computer' and select 'Properties' then 'Device Manager'. Select your CD-ROM drive and click 'Properties'. Select 'Settings' and check the 'Auto insert notification' box.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par \tab }{\b\f1 2.8. 16 bit CD-ROM drivers:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Command & Conquer: R
+ed Alert 2 may fail to start if there is a 16 bit CD-ROM driver loaded from the AUTOEXEC.BAT or CONFIG.SYS. If you have references to MSCDEX or equivalent drivers then try removing them from your autoexec.bat and config.sys files. Windows 95/98 does not g
+enerally need these drivers to work and in most cases will actually perform better without them.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par \tab }{\b\f1 2.9. CD-Changers and Multi-Drivers:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Command & Conquer: Red Alert 2 does not support multiple CD-ROM drives or CD-changers and assumes that you only have one 
+CD-ROM drive. If you have more than one CD-ROM drive, you should insert the Command & Conquer: Red Alert 2 CD in the first CD drive letter. For example, if you have CD drives E:, F: and G:, your Command & Conquer: Red Alert 2 CD should be inserted into th
+e E: drive.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }{\b\f1 \tab 2.10. Choppy movie performance:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+If you find that the movie performance is choppy or jerky, try reducing the Windows 95/98 CD caching by going to the Start/Settings/Control Panel and double-clicking the System applet. In the System Properties 
+dialog, click the Performance tab and then click the File System button. From the File System Properties dialog, click the CD-ROM tab and note the Supplemental Cache Size setting (so that you can reset the cache size if need be). Now set the Supplemental 
+Cache Size to Small. This should have a marked effect on movie performance.
+\par 
+\par You can also try adjusting your detail settings in the Options Menu. Low Detail will remove effects like water wakes behind ships, smoke and effect lines. Red Alert 2 will also dyn
+amically remove animations in certain situations on low spec machines to ensure a high quality game performance.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par \tab }{\b\f1 2.11. Power Saving Modes:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 It is possible that your computer loses connection to your ISP due to long periods of inactivity. Sometimes this i
+s caused by the sleep mode in your "Power Saving" options. This can cause problems during game play or when connected to Westwood Online. To avoid any problems please disable your screen saver or power-saving modes when running the game.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 \tab 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\b\f1 2.12. Periodic Slowdowns:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard\plain \s20\ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 \f1\fs24\cf1\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\cf0 
+If periodic slowdowns occur while playing Command & Conquer: Red Alert 2 and the CD is not being accessed please insure that there are no other applications running during your game session. This includes anti-virus software.
+\par }\pard\plain \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs24\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\b\f1 2.13. Game Updates and Patches:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 \tab \tab 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+Command & Conquer: Red Alert 2 contains an auto-updating feature. Updated versions of the game will be announced to you when playing Command & Conquer: Red Alert 2 on Westwood Online. When an updated version of the game i
+s available you will be able to receive it and automatically have it installed, if you wish. If you do not intend to play Command & Conquer: Red Alert 2 on Westwood Online then please check www.westwood.com for update information.
+\par 
+\par }{\b\f1 2.14. Connection Speed Slider:
+\par 
+\par }{\f1 Red Alert 2 has a game-latency tolerance setting in the Game Options screen that allows players to increase the tolerance of network latency on laggy connections for Internet gaming. To adjust, move the slider to the appropriate se
+tting. For example, if you are connecting over a modem, the best setting for you would be "Normal" or "Poor". If you are connecting over a broadband connection (Cable Modem or DSL), move the slider to "Fast". This attempts to match your system with your c
+onnection for peak performance. Moving the slider from Poor or Normal to Fast can have an adverse effect on game performance.
+\par 
+\par }{\b\f1 2.15. Dual Network Cards and IPX Issues: 
+\par }{\f1 
+\par If you have two network cards in your computer and both have the IPX protocol bound to 
+them, you can use the "Network Options" to choose the card which you'd like to use. Note: on some Windows 95 and 98 systems and in some configurations, Red Alert 2 can't see your second network card. A workaround to this problem is to disable your primary
+ card in Windows device manager and reboot. Red Alert 2 should successfully see and utilize your second network card. Please refer to your Windows documentation for more information on how to disable your primary network card.
+\par 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 2.16.  Firewall Issues:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 If y
+ou are playing Red Alert 2 behind a firewall and wish to host a game, you must open the following ports:  Port 1234, 1235, 1236, 1237.  These ports use the UDP protocol.  If you do not know how to configure your firewall consult your firewall documentatio
+n or contact your system administrator or Internet Provider.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \fi720\li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 2.17.  Network Address Translation (NAT) Games:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\b\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 If your network is using Network Address Translation, two or more users behind the NAT'd firewall will be unable to play in the same game.  They w
+ill, however, be able to play in different games.
+\par 
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par 
+\par 
+\par 
+\par 
+\par }{\b\f1 3.\tab GAMEPLAY INFO & UPDATES
+\par }{\f1 
+\par }{\b\f1 \tab 3.1. Engineers:
+\par }{\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 Engineers (and Engineers in IFVs) can be placed in Guard mode, like any other unit. When in guard mode, engineers automatically heal any nearby player own
+ed structures that are damaged into the red or capture nearby enemy buildings.
+\par 
+\par 
+\par }\pard \ql \fi-360\li1080\ri0\widctlpar\tx1080\aspalpha\aspnum\faauto\adjustright\rin0\lin1080\itap0 {\b\f1 3.2.\tab  Rankings for Ladders and Tournaments over Westwood Online:
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+\par Westwood offers many opportunities for players to test their mettle against the best players in the world. Check out Westwood.com for the latest breaking news. Rankings for Ladders and Tournaments in Red Alert to are defaulted to "Short Games"
+\par 
+\par }\pard \ql \fi-360\li1080\ri0\widctlpar\tx1080\aspalpha\aspnum\faauto\adjustright\rin0\lin1080\itap0 {\b\f1 3.3.\tab  Quick Match over Westwood Online:
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par }\pard \ql \li720\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin720\itap0 {\f1 
+Red Alert 2 offers players an easy way to meet players on the battlefield. Simply try the "Quick Match" selection in Westwood Online. This option will try to match players of similar ranking, similar ping times (Internet conne
+ction latency to other players), location and system specs.
+\par }\pard \ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 {\f1 
+\par 
+\par 
+\par 
+\par }}

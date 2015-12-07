@@ -1,0 +1,56 @@
+[Product]
+Name=Yuri's Revenge
+FullName=Command && Conquer Red Alert 2 - Yuri's Revenge
+Key=Yuri's Revenge
+Exe=C:\Westwood\RA2\RA2MD.exe
+
+[Icons]
+LNK=C:\Users\Justin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Westwood\Yuri's Revenge
+Desktop=C:\Users\Justin\Desktop\Yuri's Revenge.lnk
+
+[SubDirectories]
+Dir0=HTML
+Dir1=HTML\assets
+NumFiles=1
+
+[Files]
+F:0=drvmgt.dll
+F:1=gamemd.exe
+F:2=langmd.mix
+F:3=launchermd.bmp
+F:4=mphmd.exe
+F:5=patchgetmd.dat
+F:6=RA2MD Update.ico
+F:7=RA2MD.exe
+F:8=RA2MD.ico
+F:9=ra2md.lcf
+F:10=ra2md.mix
+F:11=Register.exe
+F:12=Register.ini
+F:13=secdrv.sys
+F:14=YURI.exe
+F:15=yuri.lcf
+F:16=UninstMD.wsu
+F:17=ConquerMD.dat
+NumFiles=18
+
+[FileSizes]
+FileSizes=320205824
+S:0=34304
+S:1=4808976
+S:2=84883414
+S:3=39606
+S:4=77824
+S:5=184320
+S:6=4710
+S:7=94208
+S:8=4710
+S:9=209
+S:10=204527696
+S:11=65536
+S:12=211
+S:13=28624
+S:14=977633
+S:15=171
+S:16=0
+S:17=0
